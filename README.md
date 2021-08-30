@@ -107,7 +107,7 @@ after your favorite color (or any color).
 
 In this new branch, **add** to your `README.md` by finding a link to a
 [gif](https://giphy.com/) that speaks to your current feeling(s) and
-include this as an image ([remember how to do this in
+include this as an image ([Remember how to do this in
 markdown?](https://commonmark.org/help/))
 
 Create a **Pull Request** to your `main` branch from your new branch.
@@ -148,8 +148,10 @@ At the end of this video, learners will be able to:
 ### ☑️ Tasks 3: Comment on an Issue
 
 Find the issue titled “Preparation 1 Issue” that your instructor created
-in the `community` repository. Reply to the question somewhere below.
-Use *at least* two Markdown styling trick in your reply.
+in the `community` repository of our [STA 418/518 GitHub
+organization](https://github.com/gvsu-sta518). Reply to the question
+somewhere below. Use *at least* two Markdown styling trick in your
+reply.
 
 ### ☑️ Tasks 4: Respond to another Issue
 
