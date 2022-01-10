@@ -84,9 +84,18 @@ Community](https://twitter.com/MiR_community), and
 
 ## Branches and Pull Requests
 
+These next two videos are meant to provide you with insight into what
+else you can do in GitHub. I expect these steps will be new and
+confusing to most of you. That is ok! We will get better at these steps
+throughout the semester. At the very least, watch the videos to be aware
+of what these terms mean.
+
 ### 🎞 Video 2: Branches (11:54 minutes)
 
 [![Branches](http://img.youtube.com/vi/oPpnCh7InLY/0.jpg)](http://www.youtube.com/watch?v=oPpnCh7InLY "1.2 Branches - Git and GitHub for Poets")
+
+Note that the network plot that Daniel shows throughout this video is
+now located at 💹 Insights \> Network (on the left-hand toolbar).
 
 **Objectives**
 
@@ -96,9 +105,6 @@ At the end of this video, learners will be able to:
 -   Switch between branches in GitHub,
 -   Edit and commit changes to a separate branches in GitHub, and
 -   Merge branches with a pull request.
-
-Note that the network plot that Daniel shows throughout this video is
-now located at 💹 Insights &gt; Network (on the left-hand toolbar)
 
 ### ☑️ Task 2: Make a branch and pull request
 
@@ -120,7 +126,7 @@ GitHub organization (linked below).
 
 ### 🎞 Video 3: Forks and Pull Request (12:22 minutes)
 
-We will do more with pull requests in our first class session, but watch
+We will do more with pull requests in our next class session, but watch
 this video to help prepare you.
 
 [![Forks and Pull
@@ -147,36 +153,36 @@ At the end of this video, learners will be able to:
 
 ### ☑️ Tasks 3: Comment on an Issue
 
-Find the issue titled “Preparation 1 Issue” that your instructor created
-in the `community` repository of our [STA 418/518 GitHub
+Find the issue titled “Preparation 1 Issue” that Bradford created in the
+`community` repository of our [STA 418/518 GitHub
 organization](https://github.com/gvsu-sta518). Reply to the question
 somewhere below. Use *at least* two Markdown styling trick in your
 reply.
 
-### ☑️ Tasks 4: Respond to another Issue
+### ☑️ Tasks 4: Respond to a different kind of issue
 
-Find the issue titled “Day 2 Agenda” that your instructor created in the
-`community` repository.
+In our Slack workspace (link provided in Blackboard), find the `#agenda`
+channel. In this channel, there should be a post called “Day 2 Agenda”
+that Bradford created.
 
-This issue currently includes my planned agenda for our second class
+This post currently includes my planned agenda for our second class
 session. From the syllabus you saw that I want to encourage you seek
-help in visible ways and the `community` repository is one way to do
-this!
+help in visible ways and the Slack workspace is one way to do this!
 
-In this issue, post what was the muddiest thing from this Preparation.
-If someone else already mentioned what you thought was muddy, give them
-a “+ 1” 👍.
+In this post, provide details for what was the muddiest thing from this
+Preparation. If someone else already mentioned what you thought was
+muddy, give them a “+ 1” 👍.
 
 You will continue to do this for each Preparation. This is one way to
 ask me to discuss things at the beginning of a class session (and with
 enough heads up, I can provide a better discussion). If, as your working
 on non-Preparation material, you experience some “mudd-iness”, create a
-new Issue in the `community` repository! You can always ask questions
-live during our class sessions.
+post in the `#random` channel or create a new themed channel. You can
+always ask questions live during our class sessions.
 
 **Optional**
 
--   Personalize your GitHub profile
+-   Personalize your GitHub profile with a picture, name, etc.
 -   Register for the (free!) [Student Developer
     Pack](https://education.github.com/pack) with GitHub
 
