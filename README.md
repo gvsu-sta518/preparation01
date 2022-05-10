@@ -5,47 +5,39 @@ All of your work for STA 418/518 will be completed using GitHub. This
 activity will walk you through practicing some of the GitHub steps to
 get more comfortable with this workflow.
 
-**Estimated Time**
-
--   🎞 Four Videos: 45 minutes
--   ☑️ Four Tasks: 20-30 minutes
-
-## Introduction to Git and GitHub
-
-### 🎞 Video 1: Introduction (13:43 minutes)
+Remember that you watched a video from Daniel Shiffman to prepare you
+for our first class meeting. For completeness, this video is provided
+here if you would like to rewatch it (13:43 minutes).
 
 [![Introduction to Git and
 GitHub](http://img.youtube.com/vi/BCQHnlnPusY/0.jpg)](http://www.youtube.com/watch?v=BCQHnlnPusY "1.1 Introduction - Git and GitHub for Poets")
 
-**Objectives**
+### Estimated Time
 
-At the end of this video, learners will be able to:
+-   🎞 Three Videos: 45 minutes
+-   ☑️ Four Tasks: 20-30 minutes
 
--   Explain the difference between Git and GitHub,
--   Create repositories in GitHub with a README file,
--   Create new plain text (`.txt`) and Markdown (`.md`) files within a
-    GitHub repository
--   Edit and commit changes to files in a GitHub repository,
--   Provide informative commit messages, and
--   View commit history for a particular file.
+## More Git and GitHub
 
 ### ☑️ Task 1: Introduction
 
-Create your own repo. You can [follow the steps
-here](https://docs.github.com/en/get-started/quickstart/create-a-repo#create-a-repository)
+First, you will need to create your own new repo (not forking my repo
+like we did during class). You can follow [GitHub’s recommneded
+steps](https://docs.github.com/en/get-started/quickstart/create-a-repo#create-a-repository)
 (stopping once you reach the “Commit your first change” section). In
-step 2, name your reflection `preparation01`. In step 4, you can choose
-to make your repository private if you would prefer for your reflective
-writing to private. If you choose to make your repo private, you will
-need to grant me `@dykesb` [access to your private
+step 2, name your repository `preparation01`. In step 4, you can choose
+to make your repository private if you would prefer - you will be doing
+some reflective writing. If you choose to make your repo private, you
+will need to grant me (`@dykesb`) [access to your private
 repository](https://stackoverflow.com/a/13683056).
 
-In this repository, *create a new markdown file* called
-`kohn-reflection.md`. Notice that Daniel (video host) created a raw text
-file (`.txt`), but I am asking you to instead create a markdown file
-(`.md`). In this newly created markdown file, write a reflection (at
-least a full page, at least 500 words, with multiple paragraphs) after
-reading Alfie’s article. This should be a reflection, not simply
+In your new repository, *create a new markdown file* called
+`kohn-reflection.md`. In the video you watched for our first class
+session (that is also provided above), Daniel created a raw text file
+(`.txt`). However, here I am asking you to instead create a markdown
+file (`.md`). In this newly created markdown file, write a reflection
+(around a full page, approximately 500 words, with multiple paragraphs)
+after reading Alfie’s article. This should be a reflection, not simply
 reporting what Alfie’s article says. Some prompts that you may find
 useful are provided below, but feel free to make this reflection your
 own!
@@ -60,44 +52,50 @@ own!
 4.  Describe a time where you took the “easy way out” for an assignment.
     Why did you choose to go this route?
 
-This repository also contains a `README.md` file. Provide a brief
-description of what your `preparation01` repo contains.
+This repository also contains a `README.md` file. Edit this by providing
+a brief description of what your `preparation01` repo contains to help
+future you remember.
 
-In the videos, notice that Daniel keeps referring to the “`master`
-branch.” While Git’s “`master`” branch naming convention was likely from
-the [“master
+#### Changes in GitHub
+
+In the video, you may have noticed that Daniel keeps referring to the
+“`master` branch.” While Git’s “`master`” branch naming convention was
+likely from the [“master
 copy”](https://mail.gnome.org/archives/desktop-devel-list/2019-May/msg00066.html)
 or “master recording” use of the word, there also a history of
 [“master/slave”](https://twitter.com/jpaulreed/status/1272038656799211521)
 that has been used in many technology applications. The language that we
 use matters. The term “master” has an oppressive association, and there
-are better, more inclusive words that we can use. [Beginning in
-October](https://github.com/github/renaming), GitHub began using
-“`main`” instead of “`master`” for all newly-created repositories. I am
-getting better at referring to it “`main`” branch, but I might slip-up.
-Also, I am aware that doing this is not going to solve the larger issue
-and there is still a lot of work that needs to be done. Some amazing
-organizations/communities to support are [Data For Black
-Lives](https://d4bl.org/), [MiR
+are better, more inclusive words that we can use. [Beginning October
+2020](https://github.com/github/renaming), GitHub began using “`main`”
+instead of “`master`” for all newly-created repositories. I have gotten
+better at referring to it as the “`main`” branch, but I might slip-up.
+
+I am aware that renaming GitHub branches is not going to magically solve
+the larger issue of structural racism/discrimination in the world. I
+encourage you to think of ways that you can work to dismantle racism.
+One idea would be to become involved in organizations that support
+racial justice. Some amazing organizations/communities are [Data For
+Black Lives](https://d4bl.org/), [MiR
 Community](https://twitter.com/MiR_community), and
 [RLadies](https://rladies.org/).
 
 ## Branches and Pull Requests
 
-These next two videos are meant to provide you with insight into what
-else you can do in GitHub. I expect these steps will be new and
-confusing to most of you. That is ok! We will get better at these steps
-throughout the semester. At the very least, watch the videos to be aware
-of what these terms mean.
+These next two videos are meant to provide you with insight into/an
+awareness of what else you can do in GitHub. I expect these steps will
+be new, different, and confusing to most of you. That is OK! We will get
+continue to practice these steps throughout the semester. A good place
+to start in watching these videos to indentify the new terms and relate
+them to another process that you are more familar with (e.g., Google
+Drive).
 
-### 🎞 Video 2: Branches (11:54 minutes)
+### 🎞 Video 1: Branches (11:54 minutes)
 
 [![Branches](http://img.youtube.com/vi/oPpnCh7InLY/0.jpg)](http://www.youtube.com/watch?v=oPpnCh7InLY "1.2 Branches - Git and GitHub for Poets")
 
-Note that the network plot that Daniel shows throughout this video is
-now located at 💹 Insights \> Network (on the left-hand toolbar).
-
-**Objectives**
+**Be aware** that the network plot Daniel shows during this video is now
+located at 💹 Insights \> Network (on the left-hand toolbar).
 
 At the end of this video, learners will be able to:
 
@@ -109,30 +107,29 @@ At the end of this video, learners will be able to:
 ### ☑️ Task 2: Make a branch and pull request
 
 Create a new branch of your `preparation01` repository. Name this branch
-after your favorite color (or any color).
+after your favorite color (or simply the first color you think of).
 
 In this new branch, **add** to your `README.md` by finding a link to a
 [gif](https://giphy.com/) that speaks to your current feeling(s) and
 include this as an image ([Remember how to do this in
-markdown?](https://commonmark.org/help/))
+markdown?](https://commonmark.org/help/)).
 
 Create a **Pull Request** to your `main` branch from your new branch.
 
-You are done working in this repository. For the remainder of this
-Activity, you will work with other repositories in the `gvsu-sta518`
-GitHub organization (linked below).
+You are done working in your `preparation01` repository. The next two
+videos are to demonstrate some typically used processes in GitHub when
+collaborating with others. For the beginning portion of this semester,
+we will focus on doing work alone in GitHub (or collaborating with
+ourselves - i.e., using GitHub as an online code storage system).
+However, you may want to collaborate with a peer on your project so we
+will start to sprinkle these ideas in later.
 
 ## Forks and Pull Requests
 
-### 🎞 Video 3: Forks and Pull Request (12:22 minutes)
-
-We will do more with pull requests in our next class session, but watch
-this video to help prepare you.
+### 🎞 Video 2: Forks and Pull Request (12:22 minutes)
 
 [![Forks and Pull
 Requests](http://img.youtube.com/vi/oPpnCh7InLY/0.jpg)](http://www.youtube.com/watch?v=_NrSWLQsDL4 "1.3 Forks and Pull Requests - Git and GitHub for Poets")
-
-**Objectives**
 
 At the end of this video, learners will be able to:
 
@@ -141,33 +138,24 @@ At the end of this video, learners will be able to:
 
 ## Issues
 
-### 🎞 Video 4: Issues and Markdown (11:31 minutes)
+### 🎞 Video 3: Issues and Markdown (11:31 minutes)
 
 [![Issues](http://img.youtube.com/vi/WMykv2ZMyEQ/0.jpg)](http://www.youtube.com/watch?v=WMykv2ZMyEQ "1.4 Issues - Git and GitHub for Poets")
 
-**Objectives**
-
 At the end of this video, learners will be able to:
 
--   Respond to an Issue in a GitHub repository
+-   Describe what an Issue is in GitHub.
+-   Respond to an Issue in GitHub.
 
-### ☑️ Tasks 3: Comment on an Issue
+## ☑️ Tasks 3: Respond to a different kind of issue
 
-Find the issue titled “Preparation 1 Issue” that Bradford created in the
-`community` repository of our [STA 418/518 GitHub
-organization](https://github.com/gvsu-sta518). Reply to the question
-somewhere below. Use *at least* two Markdown styling trick in your
-reply.
-
-### ☑️ Tasks 4: Respond to a different kind of issue
-
-In our Slack workspace (link provided in Blackboard), find the `#agenda`
-channel. In this channel, there should be a post called “Day 2 Agenda”
-that Bradford created.
+In our Teams workspace, find the `SS2022 STA 418-518 S01` channel. In
+this channel, there should be a post called “Day 2 Muddiness” that I
+created.
 
 This post currently includes my planned agenda for our second class
 session. From the syllabus you saw that I want to encourage you seek
-help in visible ways and the Slack workspace is one way to do this!
+help in visible ways and the Teams workspace is one way to do this!
 
 In this post, provide details for what was the muddiest thing from this
 Preparation. If someone else already mentioned what you thought was
@@ -176,13 +164,15 @@ muddy, give them a “+ 1” 👍.
 You will continue to do this for each Preparation. This is one way to
 ask me to discuss things at the beginning of a class session (and with
 enough heads up, I can provide a better discussion). If, as your working
-on non-Preparation material, you experience some “mudd-iness”, create a
-post in the `#random` channel or create a new themed channel. You can
-always ask questions live during our class sessions.
+on non-Preparation material, you experience some “muddiness”, create a
+post in the class channel or create a new themed channel. You can always
+ask questions live during our class sessions.
 
-**Optional**
+### Optional
 
--   Personalize your GitHub profile with a picture, name, etc.
+-   Personalize your GitHub profile with a picture, name, etc. We will
+    find a *hidden* GitHub feature next week for how we can make our
+    GitHub profiles more informative.
 -   Register for the (free!) [Student Developer
     Pack](https://education.github.com/pack) with GitHub
 
